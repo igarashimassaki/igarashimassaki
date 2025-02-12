@@ -1,9 +1,9 @@
 ## Studies
 
+![MSK stats](https://github-readme-stats.vercel.app/api?username=igarashimassaki&show_icons=true&theme=tokyonight)
+:blue_book: ....................
 
-:blue_book: Studing Computer Science at Unimetrocamp Wyden
-
-:closed_book: Studing Systems Development at Senai "Roberto Mange"
+:closed_book: ............
 
 &nbsp;
 

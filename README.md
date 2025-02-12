@@ -12,7 +12,7 @@
 #### Main Stack:
 
 ![C++](https://img.icons8.com/?size=50&id=12592&format=png)&nbsp;
-![Python](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Python](https://img.icons8.com/?size=50&id=12592&format=png)&nbsp;
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">

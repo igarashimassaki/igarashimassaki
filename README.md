@@ -1,4 +1,4 @@
-## Studies
+## Massaki Igarashi
 
 ![MSK stats](https://github-readme-stats.vercel.app/api?username=igarashimassaki&show_icons=true&theme=tokyonight)
 :blue_book: ....................

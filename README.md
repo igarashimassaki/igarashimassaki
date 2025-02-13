@@ -10,7 +10,7 @@
 ## Habilidades de Programação
 
 #### Linguagens:
-![Assembly](https://icons8.com/icon/oYurBxPSCxXc/assembly)&nbsp;
+![Assembly](https://img.icons8.com/?size=96&id=gVK745a4Vaur&format=png)&nbsp;
 ![C++](https://img.icons8.com/?size=50&id=55199&format=png)&nbsp;
 ![Python](https://img.icons8.com/?size=50&id=12592&format=png)&nbsp;
 

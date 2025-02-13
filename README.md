@@ -15,7 +15,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/igarashimassaki/Figuras_e_Icones/refs/heads/main/cartoon-smiling-desktop-computer-19057432.webp" min-width="40px" max-width="40px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/igarashimassaki/Figuras_e_Icones/blob/main/prog.jpg" min-width="40px" max-width="40px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Workstation Tools:
 

@@ -18,9 +18,9 @@
 ![C++](https://img.icons8.com/?size=50&id=55199&format=png)&nbsp;
 ![Python](https://img.icons8.com/?size=50&id=12592&format=png)&nbsp;
 
-
-
+<div align="center">
 <img src="https://github.com/igarashimassaki/Figuras_e_Icones/blob/main/prog.jpg" min-width="40px" max-width="40px" width="400px" align="right" alt="Computador iuriCode">
+</div> 
 
 #### Workstation Tools:
 

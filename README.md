@@ -15,7 +15,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/igarashimassaki/Figuras_e_Icones/refs/heads/main/cartoon-smiling-desktop-computer-19057432.webp" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Workstation Tools:
 

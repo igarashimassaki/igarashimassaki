@@ -1,4 +1,9 @@
-## Prof. Massaki Igarashi
+<div align="center">
+	
+# $\textcolor{darkblue}{Memorial \ Circunstanciado \ do \ prof. \ Massaki \ de \ O. \ Igarashi}$
+### (e-mail: massaki.igarashi@gmail.com)
+
+</div> 
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=igarashimassaki&show_icons=true&theme=tokyonight)
 :blue_book: ....................

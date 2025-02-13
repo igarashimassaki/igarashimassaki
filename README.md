@@ -25,7 +25,6 @@
 <img src="https://github.com/igarashimassaki/Figuras_e_Icones/blob/main/prog.jpg" min-width="40px" max-width="40px" width="400px" align="right" alt="Computador iuriCode">
 </div> 
 
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+#### Tools:
 ![Anaconda](https://img.icons8.com/?size=96&id=F4uMFPZgS0gt&format=png)&nbsp;
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;

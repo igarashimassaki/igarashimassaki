@@ -3,9 +3,8 @@
 # $\textcolor{darkblue}{Prof. \ Massaki \ de \ O. \ Igarashi}$
 ### (e-mail: massaki.igarashi@gmail.com)
 
-</div> 
-
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=igarashimassaki&show_icons=true&theme=tokyonight)
+</div> 
 :blue_book: ....................
 
 :closed_book: ............

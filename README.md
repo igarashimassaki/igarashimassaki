@@ -16,6 +16,7 @@
 <img src="https://github.com/igarashimassaki/Figuras_e_Icones/blob/main/prog.jpg" min-width="40px" max-width="40px" width="400px" align="right" alt="Computador iuriCode">
 
 </div> 
+
 ## Habilidades de Programação
 
 #### Linguagens:

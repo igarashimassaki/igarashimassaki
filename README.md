@@ -28,3 +28,4 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Anaconda](https://img.icons8.com/?size=96&id=F4uMFPZgS0gt&format=png)&nbsp;

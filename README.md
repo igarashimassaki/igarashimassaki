@@ -29,16 +29,28 @@
 
 # $\textcolor{darkblue}{Habilidades-Programação:}$
 
-#### Linguagens:
-![C++](https://img.icons8.com/?size=50&id=55199&format=png)&nbsp;
-![Python](https://img.icons8.com/?size=50&id=12592&format=png)&nbsp;
+## Linguagens de Programação:
+![C/C++💻](https://img.icons8.com/?size=50&id=55199&format=png)&nbsp;
+![Java☕](https://img.icons8.com/?size=50&id=100506&format=png)&nbsp;
+![Python🐍](https://img.icons8.com/?size=50&id=12592&format=png)&nbsp;
+![R📊](https://img.icons8.com/?size=96&id=CLvQeiwFpit4&format=png)&nbsp;
+
+## ⚡🔧 Eletrônica e Sistemas Embarcados:
+### Eletrônica
+🟩🔋Placa de Circuito e PCB
+🌡️📡Sensores e Instrumentação 
+
+### Microontroladores
+🏗️🛠️Assembly
+⚙️🔌 Programação C++ e Python para Arduino/ESP32 
+⚙️🔌 Programação para Raspberry PI
+
+🌐 Redes e Comunicação
+🌍🔗📶Internet das Coisas (IoT) → 
 
 
-![R](https://img.icons8.com/?size=96&id=CLvQeiwFpit4&format=png)&nbsp;
-
-
-
-
-#### Ferramentas:
+#### Demais Ferramentas:
 ![Anaconda](https://img.icons8.com/?size=96&id=F4uMFPZgS0gt&format=png)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+
+![Em Desenvolvimento](https://img.freepik.com/vetores-premium/icone-com-vetor-de-icone-do-sistema-de-atualizacao-desenvolvimento-de-software-rede-de-internet_820464-205.jpg?w=1800)&nbsp;

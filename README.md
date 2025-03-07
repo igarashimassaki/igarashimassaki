@@ -27,7 +27,7 @@
 
 </div> 
 
-## Habilidades de Programação
+# $\textcolor{darkblue}{Habilidades de Programação}$
 
 #### Linguagens:
 ![C++](https://img.icons8.com/?size=50&id=55199&format=png)&nbsp;

@@ -8,7 +8,7 @@
 
 <div align="left">
 	
-# $\textcolor{darkblue}{Escolaridade}$
+# $\textcolor{darkblue}{Escolaridade:}$
 	
 🏫 (Ensino Fundamental): Esola Paroquial Francisco Telles (Ensino Vicentino).
 
@@ -27,7 +27,7 @@
 
 </div> 
 
-# $\textcolor{darkblue}{Habilidades  Técnicas em  Programação}$
+# $\textcolor{darkblue}{Habilidades_Técnicas_(Programação):}$
 
 #### Linguagens:
 ![C++](https://img.icons8.com/?size=50&id=55199&format=png)&nbsp;

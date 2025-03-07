@@ -8,9 +8,13 @@
 
 <div align="left">
 # $\textcolor{darkblue}{Escolaridade}$
+	
 🏫 (Ensino Fundamental): Esola Paroquial Francisco Telles (Ensino Vicentino).
+
 🏫 (Ensino Médio): Colégio Leonardo Davinci.
+
 🎓 (Graduação em Eng. Elétrica/Eletrônica): Univ. Presbiteriana Mackenzie
+
 📝 (Mestrado em Eng. da INformação): Univ. Federal do ABC (ufabc)
 
 </div> 

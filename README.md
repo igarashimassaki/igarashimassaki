@@ -16,7 +16,7 @@
 
 🎓 (Graduação em Eng. Elétrica/Eletrônica): Univ. Presbiteriana Mackenzie
 
-📝 (Mestrado em Eng. da INformação): Univ. Federal do ABC (ufabc)
+📝 (Mestrado em Eng. da Informação): Univ. Federal do ABC (UFABC)
 
 </div> 
 &nbsp;

@@ -5,10 +5,15 @@
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=igarashimassaki&show_icons=true&theme=tokyonight)
 </div> 
-:blue_book: ....................
 
-:closed_book: ............
+<div align="left">
+# $\textcolor{darkblue}{Escolaridade}$
+🏫 (Ensino Fundamental): Esola Paroquial Francisco Telles (Ensino Vicentino).
+🏫 (Ensino Médio): Colégio Leonardo Davinci.
+🎓 (Graduação em Eng. Elétrica/Eletrônica): Univ. Presbiteriana Mackenzie
+📝 (Mestrado em Eng. da INformação): Univ. Federal do ABC (ufabc)
 
+</div> 
 &nbsp;
 
 <div align="left">

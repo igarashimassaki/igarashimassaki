@@ -7,6 +7,7 @@
 </div> 
 
 <div align="left">
+	
 # $\textcolor{darkblue}{Escolaridade}$
 	
 🏫 (Ensino Fundamental): Esola Paroquial Francisco Telles (Ensino Vicentino).

@@ -53,4 +53,5 @@
 ![Anaconda](https://img.icons8.com/?size=96&id=F4uMFPZgS0gt&format=png)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
+# $\textcolor{blue}{PEste ambiente está em atualização...}$
 ![Em Desenvolvimento](https://img.freepik.com/vetores-premium/icone-com-vetor-de-icone-do-sistema-de-atualizacao-desenvolvimento-de-software-rede-de-internet_820464-205.jpg?w=1800)&nbsp;

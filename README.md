@@ -10,13 +10,13 @@
 	
 # $\textcolor{darkblue}{Escolaridade:}$
 	
-🏫 (Ensino Fundamental): Esola Paroquial Francisco Telles (Ensino Vicentino).
+🏫 Ensino Fundamental: Esola Paroquial Francisco Telles (Ensino Vicentino).
 
-🏫 (Ensino Médio): Colégio Leonardo Davinci.
+🏫 Ensino Médio: Colégio Leonardo Davinci.
 
-🎓 (Graduação em Eng. Elétrica/Eletrônica): Univ. Presbiteriana Mackenzie
+🎓 Graduação em Eng. Elétrica/Eletrônica: Univ. Presbiteriana Mackenzie
 
-📝 (Mestrado em Eng. da Informação): Univ. Federal do ABC (UFABC)
+📝 Mestrado (Stricto Sensu) em Eng. da Informação: Univ. Federal do ABC (UFABC)
 
 </div> 
 &nbsp;
@@ -43,10 +43,10 @@
 ### Microontroladores
 🏗️🛠️Assembly
 ⚙️🔌 Programação C++ e Python para Arduino/ESP32 
-⚙️🔌 Programação para Raspberry PI
+⚙️🔌 Programação Python para Raspberry PI
 
 🌐 Redes e Comunicação
-🌍🔗📶Internet das Coisas (IoT) → 
+🌍🔗📶Internet das Coisas (IoT)  
 
 
 #### Demais Ferramentas:
@@ -72,3 +72,13 @@
 
 </div>
 
+<div align="center" markdown="1">
+
+[![GitHub repo Issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/EbookFoundation/free-programming-books/issues)&#160;
+[![GitHub repo Good Issues for newbies](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/good%20first%20issue?style=flat&logo=github&logoColor=green&label=Good%20First%20issues)](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)&#160;
+[![GitHub Help Wanted issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20issues)](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)    
+[![GitHub repo PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=orange&label=PRs)](https://github.com/EbookFoundation/free-programming-books/pulls)&#160;
+[![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged)&#160;
+[![GitHub Help Wanted PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20PRs)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+
+</div>

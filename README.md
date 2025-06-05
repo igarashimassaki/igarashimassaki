@@ -85,10 +85,14 @@
 
 # ⚡ Principais linguagens de programação
 
-<!--<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+# ⚡ Principais linguagens de programação
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"></code>-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igarashimassaki&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="thangchung" />
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"></code>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igarashimassaki&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="igarashimassaki" />
+
 
 # ⚡ Favorite languages and tools
 

@@ -83,36 +83,15 @@
 
 </div>
 
-# ⚡ Principais linguagens de programação
-
-# ⚡ Principais linguagens de programação
-
+# ⚡ Principais linguagens de programação no conteúdo deste GitHub
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"></code>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igarashimassaki&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="igarashimassaki" />
-
-
-# ⚡ Favorite languages and tools
-
-<!--<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/3fd951e49a8e2af94627092d80c236c00df95ae3/topics/grpc/grpc.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangchung&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="thangchung" />
 
 # :octocat: GitHub contributions
 
-<img src="https://github-readme-stats.vercel.app/api?username=thangchung&show_icons=true&count_private=true&theme=algolia" alt="thangchung" />
-
-# 📫 How to reach me
-
-[X](https://x.com/thangchung), [@thangchung.bsky.social](https://bsky.app/profile/thangchung.bsky.social) [Dev.to](https://dev.to/thangchung), [Credly](https://www.credly.com/users/thangchung), [Medium](https://medium.com/@thangchung), [HashNode](https://hashnode.com/@thangchungatwork), [Linkedin](https://www.linkedin.com/in/thang-chung-2b475614), [StackOverflow](https://stackoverflow.com/users/525811/thangchung), [SlideShare](https://www.slideshare.net/thangchung), [SpeakerDeck](https://speakerdeck.com/thangchung)
+<img src="https://github-readme-stats.vercel.app/api?username=igarashimassaki&show_icons=true&count_private=true&theme=algolia" alt="igarashimassaki" />
 
 Some tips and tricks for setting up the local development environment can be found at:
 - [local_dev.md](local_dev.md)

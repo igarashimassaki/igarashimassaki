@@ -8,9 +8,6 @@
 [Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=igarashimassaki&show_icons=true&theme=tokyonight)
 </div> 
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
-
-
 <div align="left">
 
 # $\textcolor{darkblue}{Escolaridade:}$
